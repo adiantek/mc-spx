@@ -1,7 +1,7 @@
 # mc-spx
 Running Minecraft 1.17 on Surface Pro X without any emulation
 
-1. Go to https://store.rg-adguard.net/
+1. Go to https://store.rg-adguard.net/ (or download [OpenCL™ and OpenGL® Compatibility Pack](ms-windows-store://pdp/?productid=9NQPSL29BFFF) if you insider's dev channel)
 2. Select "ProductId" and type 9nqpsl29bfff
 3. Download and install appx arm64 (eappx is encrypted, I don't know how to decrypt, so I used appx)
 4. Download https://github.com/microsoft/openjdk-aarch64/releases
