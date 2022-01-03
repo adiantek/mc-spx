@@ -7,8 +7,8 @@ Running Minecraft 1.17 (or higher) on Surface Pro X without any emulation
 4. Download [OpenJDK for AArch64](https://docs.microsoft.com/en-us/java/openjdk/download)
    - For 1.17 / 1.17.1, use [OpenJDK 16 for AArch64](https://docs.microsoft.com/en-us/java/openjdk/download#openjdk-16)
    - For 1.18.1, use [OpenJDK 17 for AArch64](https://docs.microsoft.com/en-us/java/openjdk/download#openjdk-17)
-6. Download Minecraft version profile from this repo and put it into your .minecraft\versions\ directory.
-7. Run 1.17-aarch64 / 1.17.1-aarch64 from Minecraft Launcher using downloaded java (`openjdk-aarch64`) without any JVM Arguments (you can keep `-Xmx2G`).
+5. Download Minecraft version profile from this repo and put it into your .minecraft\versions\ directory.
+6. Run 1.17-aarch64 / 1.17.1-aarch64 from Minecraft Launcher using downloaded java (`openjdk-aarch64`) without any JVM Arguments (you can keep `-Xmx2G`).
 
 It's possible to run any version of Minecraft Java Edition starting from 21w10a / 1.17 (the game now runs using OpenGL 3.2 core profile)
 
