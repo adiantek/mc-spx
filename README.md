@@ -7,8 +7,8 @@ Running Minecraft 1.17 (or higher) on Surface Pro X without any emulation
 4. Download [OpenJDK for AArch64](https://docs.microsoft.com/en-us/java/openjdk/download)
    - For 1.17 / 1.17.1, use [OpenJDK 16 for AArch64](https://docs.microsoft.com/en-us/java/openjdk/download#openjdk-16)
    - For 1.18.1, use [OpenJDK 17 for AArch64](https://docs.microsoft.com/en-us/java/openjdk/download#openjdk-17)
-5. Download Minecraft version profile from this repo and put it into your .minecraft\versions\ directory.
-6. Run 1.17-aarch64 / 1.17.1-aarch64 from Minecraft Launcher using downloaded java (`openjdk-aarch64`) without any JVM Arguments (you can keep `-Xmx2G`).
+5. Download Minecraft aarch64 version profile from this repo and put it into your .minecraft\versions\ directory.
+6. Run aarch64 version of Minecraft from Minecraft Launcher using downloaded java (`openjdk-aarch64`) without any JVM Arguments (you can keep `-Xmx2G`).
 
 It's possible to run any version of Minecraft Java Edition starting from 21w10a / 1.17 (the game now runs using OpenGL 3.2 core profile)
 
@@ -16,4 +16,4 @@ It's possible to run any version of Minecraft Java Edition starting from 21w10a 
 
 1. Reformat JSON in vscode
 2. Rename to `-aarch64`: https://github.com/adiantek/mc-spx/commit/274a2a62d40311337cd10f009ddf89259986ab72
-3. Change LWJGL version to the ARM64: https://github.com/adiantek/mc-spx/commit/fb0636a6eb8c40cadc624a885aa04d07fac07410
+3. Change LWJGL version to 3.3.0 (which [adds support for ARM64](https://github.com/LWJGL/lwjgl3/issues/601)): https://github.com/adiantek/mc-spx/commit/ef765811741f5a9ebc11e7ed1f479773171b0d73
