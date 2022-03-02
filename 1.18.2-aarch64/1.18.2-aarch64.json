@@ -476,13 +476,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0.jar",
-                    "sha1": "77b0dc0b6a6c82fb47368e73d55e23fdcfcf49a1",
-                    "size": 555380,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar",
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl:3.3.0",
+            "name": "org.lwjgl:lwjgl:3.3.1",
             "rules": [
                 {
                     "action": "allow"
@@ -517,13 +517,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "/org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0.jar",
-                    "sha1": "ce52faa3fd0c9ed7af45145e94b01eade5fd5daf",
-                    "size": 35740,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar",
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-jemalloc:3.3.0",
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
             "rules": [
                 {
                     "action": "allow"
@@ -558,13 +558,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0.jar",
-                    "sha1": "902dd57b5a46e8a75ee843c2db61f80b4d130d48",
-                    "size": 86170,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar",
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-openal:3.3.0",
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
             "rules": [
                 {
                     "action": "allow"
@@ -599,13 +599,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0.jar",
-                    "sha1": "a1f395f7758a3abd5aff75fc8a20368ac371631e",
-                    "size": 899820,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar",
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-opengl:3.3.0",
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1",
             "rules": [
                 {
                     "action": "allow"
@@ -640,13 +640,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0.jar",
-                    "sha1": "899e34f314525596f8fdb6476d3e56104da4601d",
-                    "size": 125600,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar",
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-glfw:3.3.0",
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
             "rules": [
                 {
                     "action": "allow"
@@ -681,13 +681,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0.jar",
-                    "sha1": "69becce49e19671fccca33bfb273231055bd9fcf",
-                    "size": 109740,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar",
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-stb:3.3.0",
+            "name": "org.lwjgl:lwjgl-stb:3.3.1",
             "rules": [
                 {
                     "action": "allow"
@@ -722,13 +722,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0.jar",
-                    "sha1": "e3bf58d4830e2b35ee7e6f40b1eafd8637c290b8",
-                    "size": 6610,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar",
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.3.0",
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1",
             "rules": [
                 {
                     "action": "allow"
@@ -798,10 +798,10 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0.jar",
-                    "sha1": "77b0dc0b6a6c82fb47368e73d55e23fdcfcf49a1",
-                    "size": 555380,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar",
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar"
                 },
                 "classifiers": {
                     "natives-linux": {
@@ -817,14 +817,14 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-macos.jar"
                     },
                     "natives-windows": {
-                        "path": "org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0-natives-windows.jar",
-                        "sha1": "a2a2ab21d619a4b08fdb52962761ccd822573908",
-                        "size": 124590,
-                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0-natives-windows-arm64.jar"
+                        "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1-natives-windows.jar",
+                        "sha1": "0f46cadcf95675908fd3a550d63d9d709cb68998",
+                        "size": 130064,
+                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1-natives-windows-arm64.jar"
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl:3.3.0",
+            "name": "org.lwjgl:lwjgl:3.3.1",
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
@@ -898,10 +898,10 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0.jar",
-                    "sha1": "ce52faa3fd0c9ed7af45145e94b01eade5fd5daf",
-                    "size": 35740,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar",
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar"
                 },
                 "classifiers": {
                     "natives-linux": {
@@ -917,14 +917,14 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-macos.jar"
                     },
                     "natives-windows": {
-                        "path": "org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0-natives-windows.jar",
-                        "sha1": "fc4438bc0bd9535b3bb02aeae287a5cec3cf58dc",
-                        "size": 104470,
-                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0-natives-windows-arm64.jar"
+                        "path": "org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1-natives-windows.jar",
+                        "sha1": "cae85c4edb219c88b6a0c26a87955ad98dc9519d",
+                        "size": 114250,
+                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar"
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl-jemalloc:3.3.0",
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
@@ -998,10 +998,10 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0.jar",
-                    "sha1": "902dd57b5a46e8a75ee843c2db61f80b4d130d48",
-                    "size": 56170,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar",
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar"
                 },
                 "classifiers": {
                     "natives-linux": {
@@ -1017,14 +1017,14 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-macos.jar"
                     },
                     "natives-windows": {
-                        "path": "org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0-natives-windows.jar",
-                        "sha1": "c297c0db767a23af1ace227664ddd2887e900a43",
-                        "size": 493390,
-                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0-natives-windows-arm64.jar"
+                        "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows.jar",
+                        "sha1": "40d65f1a7368a2aa47336f9cb69f5a190cf9975a",
+                        "size": 505234,
+                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows-arm64.jar"
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl-openal:3.3.0",
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
@@ -1098,10 +1098,10 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0.jar",
-                    "sha1": "a1f395f7758a3abd5aff75fc8a20368ac371631e",
-                    "size": 899820,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar",
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar"
                 },
                 "classifiers": {
                     "natives-linux": {
@@ -1117,14 +1117,14 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-macos.jar"
                     },
                     "natives-windows": {
-                        "path": "org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0-natives-windows.jar",
-                        "sha1": "0b08e49c2ac976942b5fd6f146b790d0c0098c39",
-                        "size": 80280,
-                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0-natives-windows-arm64.jar"
+                        "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows.jar",
+                        "sha1": "527d78f1e9056aff3ed02ce93019c73c5e8f1721",
+                        "size": 82445,
+                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows-arm64.jar"
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl-opengl:3.3.0",
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1",
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
@@ -1198,10 +1198,10 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0.jar",
-                    "sha1": "899e34f314525596f8fdb6476d3e56104da4601d",
-                    "size": 125600,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar",
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar"
                 },
                 "classifiers": {
                     "natives-linux": {
@@ -1217,14 +1217,14 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-macos.jar"
                     },
                     "natives-windows": {
-                        "path": "org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0-natives-windows.jar",
-                        "sha1": "55f7adddaa1f575635f35fec166f0e80272bd85e",
-                        "size": 120840,
-                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0-natives-windows-arm64.jar"
+                        "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-natives-windows.jar",
+                        "sha1": "beda65ee503443e60aa196d58ed31f8d001dc22a",
+                        "size": 123808,
+                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-natives-windows-arm64.jar"
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl-glfw:3.3.0",
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
@@ -1298,10 +1298,10 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0.jar",
-                    "sha1": "e3bf58d4830e2b35ee7e6f40b1eafd8637c290b8",
-                    "size": 6610,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar",
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar"
                 },
                 "classifiers": {
                     "javadoc": {
@@ -1323,10 +1323,10 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-macos.jar"
                     },
                     "natives-windows": {
-                        "path": "org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0-natives-windows.jar",
-                        "sha1": "925a96e3b08a1943f3f3910d8cd88dee87ea9fbd",
-                        "size": 106580,
-                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0-natives-windows-arm64.jar"
+                        "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows.jar",
+                        "sha1": "83a5e780df610829ff3a737822b4f931cffecd91",
+                        "size": 109139,
+                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar"
                     },
                     "sources": {
                         "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-sources.jar",
@@ -1336,7 +1336,7 @@
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.3.0",
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1",
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
@@ -1410,10 +1410,10 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0.jar",
-                    "sha1": "69becce49e19671fccca33bfb273231055bd9fcf",
-                    "size": 109740,
-                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0.jar"
+                    "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar",
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar"
                 },
                 "classifiers": {
                     "natives-linux": {
@@ -1429,14 +1429,14 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-macos.jar"
                     },
                     "natives-windows": {
-                        "path": "org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-windows.jar",
-                        "sha1": "25e92c7a10d7cc73c771796e278b31b419cc5cb2",
-                        "size": 211770,
-                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-windows-arm64.jar"
+                        "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1-natives-windows.jar",
+                        "sha1": "fde63cdd2605c00636721a6c8b961e41d1f6b247",
+                        "size": 216848,
+                        "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1-natives-windows-arm64.jar"
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl-stb:3.3.0",
+            "name": "org.lwjgl:lwjgl-stb:3.3.1",
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
