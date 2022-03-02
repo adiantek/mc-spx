@@ -140,7 +140,7 @@
             "url": "https://launcher.mojang.com/v1/objects/e562f588fea155d96291267465dc3323bfe1551b/server.txt"
         }
     },
-    "id": "1.18.2",
+    "id": "1.18.2-aarch64",
     "javaVersion": {
         "component": "java-runtime-beta",
         "majorVersion": 17
