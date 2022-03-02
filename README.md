@@ -16,4 +16,4 @@ It's possible to run any version of Minecraft Java Edition starting from 21w10a 
 
 1. Reformat JSON in vscode
 2. Rename to `-aarch64`: https://github.com/adiantek/mc-spx/commit/274a2a62d40311337cd10f009ddf89259986ab72
-3. Change LWJGL version to 3.3.0 (which [adds support for ARM64](https://github.com/LWJGL/lwjgl3/issues/601)): https://github.com/adiantek/mc-spx/commit/ef765811741f5a9ebc11e7ed1f479773171b0d73
+3. Change LWJGL version to 3.3.0 (which [adds support for ARM64](https://github.com/LWJGL/lwjgl3/issues/601)) or higher: https://github.com/adiantek/mc-spx/commit/ef765811741f5a9ebc11e7ed1f479773171b0d73
