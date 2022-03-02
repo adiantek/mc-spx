@@ -211,13 +211,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/apache/logging/log4j/log4j-slf4j18-impl/2.14.1/log4j-slf4j18-impl-2.14.1.jar",
-                    "sha1": "312b4d91b21160b9fab43600fa787f31e8cab930",
-                    "size": 20688,
-                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j18-impl/2.14.1/log4j-slf4j18-impl-2.14.1.jar"
+                    "path": "org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar",
+                    "sha1": "bd7f6c0b9224dd214afb4e684957e2349b529a8d",
+                    "size": 21244,
+                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar"
                 }
             },
-            "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.14.1"
+            "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.17.0"
         },
         {
             "downloads": {
@@ -431,24 +431,24 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1.jar",
-                    "sha1": "cd8858fbbde69f46bce8db1152c18a43328aae78",
-                    "size": 300365,
-                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1.jar"
+                    "path": "org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar",
+                    "sha1": "bbd791e9c8c9421e45337c4fe0a10851c086e36c",
+                    "size": 301776,
+                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar"
                 }
             },
-            "name": "org.apache.logging.log4j:log4j-api:2.14.1"
+            "name": "org.apache.logging.log4j:log4j-api:2.17.0"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar",
-                    "sha1": "9141212b8507ab50a45525b545b39d224614528b",
-                    "size": 1745700,
-                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar"
+                    "path": "org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar",
+                    "sha1": "fe6e7a32c1228884b9691a744f953a55d0dd8ead",
+                    "size": 1789339,
+                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar"
                 }
             },
-            "name": "org.apache.logging.log4j:log4j-core:2.14.1"
+            "name": "org.apache.logging.log4j:log4j-core:2.17.0"
         },
         {
             "downloads": {
