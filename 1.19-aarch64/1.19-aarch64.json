@@ -874,7 +874,7 @@
                     "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows-arm64.jar",
                     "sha1": "40d65f1a7368a2aa47336f9cb69f5a190cf9975a",
                     "size": 505234,
-                    "url": "hhttps://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows-arm64.jar"
+                    "url": "https://oss.sonatype.org/service/local/repositories/releases/content/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows-arm64.jar"
                 }
             },
             "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-windows-arm64",
