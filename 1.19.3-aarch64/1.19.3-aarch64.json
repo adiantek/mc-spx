@@ -724,6 +724,7 @@
             }
          ]
       },
+        {
             "downloads": {
                 "artifact": {
                     "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-natives-windows-arm64.jar",
@@ -1098,6 +1099,7 @@
             }
          ]
       },
+        {
             "downloads": {
                 "artifact": {
                     "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows-arm64.jar",
@@ -1146,6 +1148,7 @@
             }
          ]
       },
+        {
             "downloads": {
                 "artifact": {
                     "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1-natives-windows-arm64.jar",
@@ -1289,6 +1292,7 @@
             }
          ]
       },
+        {
             "downloads": {
                 "artifact": {
                     "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar",
@@ -1364,6 +1368,7 @@
             }
          ]
       },
+      {
             "downloads": {
                 "artifact": {
                     "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1-natives-windows-arm64.jar",
